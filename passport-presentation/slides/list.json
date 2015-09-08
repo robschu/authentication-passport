@@ -1,0 +1,20 @@
+[
+    [
+        "index.md",
+        "agenda.html"
+    ],
+    [
+        "was-ist-eine-authentication-mit-dem-passport.html",
+        "authentication.html",
+        "passportjs.html",
+        "passport-strategies.html"
+    ],
+    "wozu-braucht-man-passportjs.html",
+    [
+	    "wie-funktioniert-der-passport.html",
+	    "strategy-erstellen.html",
+	    "authenticate.html",
+	    "callback.html"
+    ],
+    "quellen.html"
+]
